@@ -1,4 +1,4 @@
-﻿Id,Amount,UnitOfMeasureId,Name
+﻿Id,Quantite,UniteDeMesureId,Nom
 1,12,7,canneberges fraîches
 2,3/4,3,sucre roux
 3,1/4,3,jus d'orange frais
