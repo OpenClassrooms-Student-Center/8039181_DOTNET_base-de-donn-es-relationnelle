@@ -1,0 +1,14 @@
+﻿Id,Name,MeasurementType
+1,cuillère à café,0
+2,cuillère à soupe,0
+3,tasse,0
+4,pinte,0
+5,quart,0
+6,gallon,0
+7,once,0
+8,livre,0
+9,ml,1
+10,litre,1
+11,mg,1
+12,g,1
+13,kg,1
